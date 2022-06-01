@@ -4,5 +4,7 @@
 To run this ,execute:
 
 $ terraform init
+
 $ terraform plan
+
 $ terraform apply
